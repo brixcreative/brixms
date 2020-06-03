@@ -1,5 +1,5 @@
 pathAssets =
-    "https://rafaelavlucas.github.io/brixms/assets";
+    "https://brixcreative.github.io/brixms/assets";
 
 // Product Content
 

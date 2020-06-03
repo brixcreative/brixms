@@ -1,4 +1,4 @@
-const pathAssets = "https://rafaelavlucas.github.io/brixms/assets";
+const pathAssets = "https://brixcreative.github.io/brixms/assets";
 
 function getCategory() {
     const modulesCategories = [{
